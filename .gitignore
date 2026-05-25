@@ -1,0 +1,6 @@
+# KiCad Backup- und Temp-Dateien ignorieren
+*-bak
+*.bak
+*.kicad_prl
+*-autosave.*
+.kicad_die
